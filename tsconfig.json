@@ -1,6 +1,7 @@
 {
   "compilerOptions":
     {
+      "esModuleInterop": true,
       "module": "commonjs",
       "outDir": "dist",
       "sourceMap": false,

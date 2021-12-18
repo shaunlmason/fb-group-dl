@@ -16,6 +16,7 @@
 !.pnp.cjs
 !.pnp.loader.mjs
 !.prettierrc
+!.yarnrc.yml
 
 #excluded directories
 .coverage/
